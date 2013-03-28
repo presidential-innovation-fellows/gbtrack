@@ -3,8 +3,6 @@ layout: default
 title: Green Button Snapshot
 ---
 
-# Snapshot of Green Button Ecosystem
-
 The Green Button ecosystem is growing. We have over 35 utilties committed to giving consumers access to their usage data. This is a list of ***Utilities & Dataholders*** and ***Third Party Applications*** that have integrated Green Button.
 
 
