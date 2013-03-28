@@ -12,6 +12,7 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 	<tr>
 		<th class="table-column"></th>
 		<th class="table-column">Name</th>
+		<th class="table-column">Reach</th>
 		<th class="table-column">Structure</th>
 		<th class="table-column">Intervals</th>
 		<th class="table-column">Download Link</th>
@@ -22,6 +23,7 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 	<tr>
 		<td class="status-good">&bull;</td>
 		<th>PG&amp;E</th>
+		<td>15M - Northern and Central California</td>
 		<td>Yes - ESPI</td>
 		<td>15 min</td>
 		<td>Consumer Portal</td>
@@ -32,6 +34,7 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 	<tr class="odd">
 		<td class="status-bad">&bull;</td>
 		<th>Texas Utilities</th>
+		<td>Size - Area</td>
 		<td>Yes - ESPI</td>
 		<td>30 min</td>
 		<td>Consumer Portal</td>
