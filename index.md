@@ -24,7 +24,7 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 	<tr>
 		<td class="status-good">&bull;</td>
 		<th>PG&amp;E</th>
-		<td>Northern and Central California</td>
+		<td>California</td>
 		<td>15 million</td>
 		<td>Yes - ESPI</td>
 		<td>15 min</td>
