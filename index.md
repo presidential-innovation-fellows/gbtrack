@@ -111,6 +111,18 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 
 <table>
 	<tr>
+		<th class="table-column"></th>
+		<th class="table-column">Name</th>
+		<th class="table-column">Region</th>
+		<th class="table-column">Reach</th>
+		<th class="table-column">Structure</th>
+		<th class="table-column">Intervals</th>
+		<th class="table-column">Download Link</th>
+		<th class="table-column">Certification</th>
+		<th class="table-column">Connect</th>
+		<th class="table-column">Notes</th>
+	</tr>
+	<tr>
 		<td class="status-none">&bull;</td> <!-- Status -->
 		<th>American Electric Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
