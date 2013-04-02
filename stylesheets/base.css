@@ -321,6 +321,10 @@ td{
 	color: #8bc541;
 }
 
+.status-none{
+	color: #eeeeee;
+}
+
 .status-bad{
 	color: #c3423a;
 }

@@ -6,7 +6,7 @@ title: Green Button Snapshot
 The Green Button ecosystem is growing. We have over 35 utilties committed to giving consumers access to their usage data. This is a list of ***Utilities & Dataholders*** and ***Third Party Applications*** that have integrated Green Button.
 
 
-## Utilities & Dataholders
+## Utilities & Dataholders - Implemented
 
 <table>
 	<tr>
@@ -22,28 +22,405 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th class="table-column">Notes</th>
 	</tr>
 	<tr>
-		<td class="status-good">&bull;</td>
-		<th>PG&amp;E</th>
-		<td>California</td>
-		<td>15 million</td>
-		<td>Yes - ESPI</td>
-		<td>15 min</td>
-		<td>Consumer Portal</td>
-		<td>No</td>
-		<td>No</td>
-		<td>Timestamp is incorrect</td>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>NSTAR</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
 	</tr>
-	<tr class="odd">
-		<td class="status-bad">&bull;</td>
-		<th>Texas Utilities</th>
-		<td>Area</td>
-		<td>Size</td>
-		<td>Yes - ESPI</td>
-		<td>30 min</td>
-		<td>Consumer Portal</td>
-		<td>No</td>
-		<td>No</td>
-		<td>Timestamp is incorrect</td>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>PG&amp;E</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Reliant</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>SDG&amp;E</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Portland General Electric</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>TNMP</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>TXU Energy</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+</table>
+
+## Utilities & Dataholders - Committed
+
+<table>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>American Electric Power</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Ameren Illinois</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Austin Energy</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Baltimore Gas &amp; Electric</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Bangor Hydro Electric Company</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>CenterPoint Energy</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Central Maine Power</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Chattanooga EPB</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Commonwealth Edison</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Consolidated Edison</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Efficiency Vermont</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Glendale Water and Power</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>JEA</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Kootenai Electric Cooperative, Inc.</th> <!-- Name -->
+		<td>Idaho</td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>National Grid</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Northeast Utilities</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Oncor</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>PacifiCorp</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Pacific Power</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>PPL Electric Utilities</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>PECO</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Pepco Holdings</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Sawnee Electric Membership Corporation</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Southern California Edison</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>United Illuminating Company</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
+	</tr>
+	<tr>
+		<td class="status-none">&bull;</td> <!-- Status -->
+		<th>Virginia Dominion Power</th> <!-- Name -->
+		<td></td> <!-- Region -->
+		<td></td> <!-- Reach -->
+		<td></td> <!-- Structure -->
+		<td></td> <!-- Intervals -->
+		<td></td> <!-- Download Link -->
+		<td></td> <!-- Certification -->
+		<td></td> <!-- Connect -->
+		<td></td> <!-- Notes -->
 	</tr>
 </table>
 
