@@ -115,11 +115,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th class="table-column">Name</th>
 		<th class="table-column">Region</th>
 		<th class="table-column">Reach</th>
-		<th class="table-column">Structure</th>
-		<th class="table-column">Intervals</th>
-		<th class="table-column">Download Link</th>
-		<th class="table-column">Certification</th>
-		<th class="table-column">Connect</th>
 		<th class="table-column">Notes</th>
 	</tr>
 	<tr>
@@ -127,11 +122,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>American Electric Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -139,11 +129,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Ameren Illinois</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -151,11 +136,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Austin Energy</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -163,11 +143,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Baltimore Gas &amp; Electric</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -175,11 +150,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Bangor Hydro Electric Company</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -187,11 +157,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>CenterPoint Energy</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -199,11 +164,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Central Maine Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -211,11 +171,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Chattanooga EPB</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -223,11 +178,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Commonwealth Edison</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -235,11 +185,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Consolidated Edison</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -247,11 +192,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Efficiency Vermont</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -259,11 +199,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Glendale Water and Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -271,11 +206,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>JEA</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -283,11 +213,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Kootenai Electric Cooperative, Inc.</th> <!-- Name -->
 		<td>Idaho</td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -295,11 +220,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>National Grid</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -307,11 +227,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Northeast Utilities</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -319,11 +234,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Oncor</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -331,11 +241,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>PacifiCorp</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -343,11 +248,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Pacific Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -355,11 +255,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>PPL Electric Utilities</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -367,11 +262,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>PECO</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -379,11 +269,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Pepco Holdings</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -391,11 +276,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Sawnee Electric Membership Corporation</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -403,11 +283,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Southern California Edison</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -415,11 +290,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>United Illuminating Company</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 	<tr>
@@ -427,11 +297,6 @@ The Green Button ecosystem is growing. We have over 35 utilties committed to giv
 		<th>Virginia Dominion Power</th> <!-- Name -->
 		<td></td> <!-- Region -->
 		<td></td> <!-- Reach -->
-		<td></td> <!-- Structure -->
-		<td></td> <!-- Intervals -->
-		<td></td> <!-- Download Link -->
-		<td></td> <!-- Certification -->
-		<td></td> <!-- Connect -->
 		<td></td> <!-- Notes -->
 	</tr>
 </table>
